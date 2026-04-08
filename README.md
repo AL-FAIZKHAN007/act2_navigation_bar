@@ -9,10 +9,11 @@ This project is a basic responsive navigation bar built using only HTML and CSS.
 * HTML5
 * CSS3
 ## Project Structure
-**navigation_bar/** #project folder name
+**act2_navigation_bar-main**
  *  index.html
  *  style.css
  *  README.md
+ *  LICENSE
 ## Getting Started
 1. Clone or Download the Project
 git clone https://github.com/AL-FAIZKHAN007/act2_navigation_bar.git
